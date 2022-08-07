@@ -7,6 +7,7 @@
 
 <h1 align="center"><b> UNIVERSAL </b></h1> 
 <h1 align="center"><b>Requirements:</b></h1>
+
 - Magisk 20.0+
 - Latest Brutal Busybox
 - Android 5.0+
