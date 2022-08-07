@@ -12,23 +12,28 @@
 - Latest Brutal Busybox
 - Android 5.0+
 
-## <h1 align="center"><b>Termux Command:</b></h1>
-- su -c NS #NewStateMenu
+ <h1 align="center"><b>Termux Command:</b></h1>
 
-# MENU FEATURES
-## ▌CREATOR ▌OWNER ▌GROUP ▌
+- su -c NS #OpenNewStateMenu
 
-## By CRANKV2
+ <h1 align="center"><b>MENU FEATURES</b></h1>
+
+<h1 align="center"><b> ▌CREATOR ▌ ▌OWNER ▌ ▌GROUP ▌</b></h1>
+
+<h1 align="center"><b> By CRANKV2</b></h1>
+
 - Telegram channel: t.me/StratospherePerformance
 - Telegram group: t.me/AndroidRootModulesCommunity
 - Join ARMC Group!
 
-## EXTRAS
+<h1 align="center"><b>EXTRAS</b></h1>
+
 - Added AimAssist/Boost
 - Added BulletRegister
 - Added and fixed many Tweaks to be stable AF!
 
-## BATTERY INFO
+<h1 align="center"><b> BATTERY INFO</b></h1>
+
 - Battery Charge Level:
 - Battery Total Capacity:
 - Battery Health:
@@ -36,15 +41,39 @@
 - Battery Temperature:
 - System Using Since:
 
-## Hide / UnHide ROOT
+<h1 align="center"><b>Hide / UnHide ROOT</b></h1>
+
 ### USE IT ALWAYS Bevore Playing NEW STATE!
 - [ UR ] Un-Hide Root When Done Playing!
 - [ HR ] Hide Root To Be Able To Play!!
 
-## ENABLE NEW STATE GAMING MODE!
-- Turn On NEW STATE Gaming MODE!
+<h1 align="center"><b>ENABLE NEW STATE GAMING MODE!</b></h1>
 
-## Usefull Options
+>Turn On NEW STATE Gaming MODE!
+
+>This Option will..
+
+>Force Close All Background Prozesses to have a smoother Gameplay..
+
+>Turning OFF auto Brightness of ur Device (just in case)
+
+>Clean Caches..
+
+>Turn On 'GAMING' Mode From Stratosphere, if u have it Installed!
+
+<h1 align="center"><b>DISABLE NEW STATE GAMING MODE!</b></h1>
+
+>Turn OFF NEW STATE Gaming MODE!
+
+>This Option Will..
+
+>Change ur Stratosphere Profile back..
+
+>From 'GAMING' To 'SMOOTHUI'..
+
+
+<h1 align="center"><b>Usefull Options</b></h1>
+
 - Enemy Spot KCAL Preset
 - Reset KCAL Preset
 - Optimize & Repack Apps Packages
@@ -53,7 +82,8 @@
 - Enable/Disable power-saving location mode
 - Clean Trash, -Example System logs, Game Logs and Cache etc...
 
-## Change Refresh Rate Options...
+<h1 align="center"><b> Change Refresh Rate Options...</b></h1>
+
 - (See Ur Current Refresh Rate Set)
 - 46 HZ Refresh Rate
 - 50 HZ Refresh Rate
@@ -64,16 +94,19 @@
 - 144 HZ Refresh Rate
 - Reset Refresh Rate config
 
-## Free RAM Bevore playing!
+<h1 align="center"><b> Free RAM Bevore playing!</b></h1>
+
 - Will Remove Most of Caches On Ur Decice!
 - EXTREME -- GAMES CACHE CLEANER>>
 - Will Remove most of Caches for Games u have Installed!
 
-## Gapps Settings..
+<h1 align="center"><b>Gapps Settings..</b></h1>
+
 - Enable Gapps
 - Disable Gapps
 
-## Open GL Changer!
+<h1 align="center"><b>Open GL Changer!</b></h1>
+
 - (See Ur Current Renderer)
 - Set renderer to OpenGL
 - Set renderer to Skia OpenGL
@@ -81,9 +114,16 @@
 
 -----------
 
-## !IMPORTANT!
-It is necessary to Remove STRPxPUBG - STRPxCODM - STRPxBAG!
-OR ANY OYHER TYPE OF TOUCH OR SCREEN IMPROVMENT MODULE!
-Dont waste my time if u dont mind keep an eye for that info!
+<h1 align="center"><b>!IMPORTANT!</b></h1>
+
+### It is necessary to Remove 
+
+- STRPxPUBG
+- STRPxCODM
+- STRPxBAG!
+
+>OR ANY OYHER TYPE OF TOUCH OR SCREEN IMPROVMENT MODULE!
+
+>Dont waste my time if u dont mind keep an eye for that info!
 
 -----------
